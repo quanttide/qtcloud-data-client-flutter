@@ -75,6 +75,27 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_web_plugins:
+    dependency: transitive
+    description: flutter
+    source: sdk
+    version: "0.0.0"
+  go_router:
+    dependency: "direct main"
+    description:
+      name: go_router
+      sha256: b3cadd2cd59a4103fd5f6bc572ca75111264698784e927aa471921c3477d5475
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "10.0.0"
+  graphview:
+    dependency: "direct main"
+    description:
+      name: graphview
+      sha256: bdba183583b23c30c71edea09ad5f0beef612572d3e39e855467a925bd08392f
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.2.0"
   js:
     dependency: transitive
     description:
@@ -91,6 +112,14 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "2.1.1"
+  logging:
+    dependency: transitive
+    description:
+      name: logging
+      sha256: "623a88c9594aa774443aa3eb2d41807a48486b5613e67599fb4c41c0ad47c340"
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.2.0"
   matcher:
     dependency: transitive
     description:
@@ -186,3 +215,4 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=3.0.0 <4.0.0"
+  flutter: ">=3.3.0"
