@@ -28,6 +28,8 @@ class MyApp extends StatelessWidget {
       theme: defaultThemeData,
       /// 路由
       routerConfig: router,
+      /// 关闭debug
+      debugShowCheckedModeBanner: false,
     );
   }
 }
