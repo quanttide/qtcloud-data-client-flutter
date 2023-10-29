@@ -1,1 +1,3 @@
-# 量潮数据云Flutter客户端
+# `qtcloud-data-console-flutter`
+
+Console of QuantTide Data Cloud
