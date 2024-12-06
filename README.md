@@ -1,3 +1,3 @@
-# `qtcloud-data-console`
+# `qtcloud-data-studio`
 
-Console of QuantTide Data Cloud
+Studio of QuantTide Data Cloud
